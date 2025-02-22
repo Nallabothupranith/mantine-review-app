@@ -24,7 +24,7 @@ export function HomePage() {
         <Table.Thead>
           <Table.Tr>
             <Table.Td>Full Name</Table.Td>
-            <Table.Td>Email</Table.Td>
+            <Table.Td>Email address</Table.Td>
           </Table.Tr>
         </Table.Thead>
         <Table.Tbody>
